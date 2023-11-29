@@ -1,0 +1,32 @@
+<html>
+<head>
+<syle>
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color:green;
+}
+a {
+	font-size: 20px;
+}
+
+  #qwer{
+	color:blue;
+	font-family:  monospace;
+}
+   #qwert{
+	color:#fcf003;
+	font-family:  Fantasy;
+}
+</style>
+</head>
+<body>
