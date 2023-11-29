@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 30px;
+  color:yellow;
+}
+a {
+	font-size:30px
